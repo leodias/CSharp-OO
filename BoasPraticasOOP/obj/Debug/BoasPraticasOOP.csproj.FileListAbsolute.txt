@@ -1,0 +1,1 @@
+C:\_SolutionsVS\BoasPraticasOOP\BoasPraticasOOP\bin\Debug\BoasPraticasOOP.exe.config
